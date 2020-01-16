@@ -5,7 +5,7 @@ module.exports = {
   google_analytics_ID   : "",                                        // Enter Google Analytics ID or ""
   presskit_download_link: "",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
-  app_url               : "https://apps.apple.com/cn/app/id1483305501",                            // Domain of your website without path_prefix.
+  app_url               : "",                            // Domain of your website without path_prefix.
   path_prefix           : "/letter/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
   app_name              : "尺素",
   app_price             : "免费",
